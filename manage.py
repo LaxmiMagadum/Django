@@ -4,6 +4,7 @@ import os
 import sys
 
 
+#laxmi
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_project.settings')
